@@ -1,0 +1,5 @@
+package xzy {
+	entity A {
+		dummy: String 
+	}
+}
