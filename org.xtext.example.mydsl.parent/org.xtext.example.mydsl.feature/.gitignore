@@ -1,0 +1,5 @@
+# Ignore everything in this directory
+src-gen/*
+target/*
+# Except this file
+!.gitignore
