@@ -89,8 +89,8 @@
 				</executions>
 				<configuration>
 					<sourceRoots>
-						<sourceRoot>src/main/xtext</sourceRoot>
-						<sourceRoot>src/main/java</sourceRoot>
+						<sourceRoot>${basedir}/src/main/xtext</sourceRoot>
+						<sourceRoot>${basedir}/src/main/java</sourceRoot>
 					</sourceRoots>
 					<languages>
 						<language>
