@@ -1,7 +1,9 @@
 # xTextForum
 
-xtextForum.* - build structure with the xtext problem.
+xtextForum.* - example project for XText Forum
 
-"xtextForum.common clean package" generates files or rather finds DSLs
+Build Order:
 
-"xtextForum.target clean package" can't find the DSLs
+org.xtext.example.mydsl.parent clean install - to install the example dsl to your local repo
+
+xtextForum.target clean package - build example project using the dsl
